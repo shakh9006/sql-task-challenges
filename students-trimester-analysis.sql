@@ -53,4 +53,4 @@ INNER JOIN grouped_info gi1
 INNER JOIN grouped_info gi2
   ON fg.student_id = gi2.student_id AND gi2.trimesters = 'Lent'
 INNER JOIN grouped_info gi3
-  ON fg.student_id = gi3.student_id AND gi3.trimesters = 'Summer'
+  ON fg.student_id = gi3.student_id AND gi3.trimesters = 'Summer';
