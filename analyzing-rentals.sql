@@ -2,8 +2,6 @@
 
 --Title: Unlocking the Popularity Secrets of Children's Films: Analyzing Rentals
 
-
-
 WITH children_film_ids AS (
   SELECT
     film_id
