@@ -1,6 +1,6 @@
 -- Source: https://leetcode.com/problems/second-highest-salary/description/
 
---Title:  Second Highest Salary
+--Title: Second Highest Salary
 
 WITH highest_salary AS (
     SELECT
