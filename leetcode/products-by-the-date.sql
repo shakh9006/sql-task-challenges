@@ -1,6 +1,6 @@
--- Source: Group Sold Products By The Date
+-- Source: https://leetcode.com/problems/group-sold-products-by-the-date/description/
 
---Title: https://leetcode.com/problems/group-sold-products-by-the-date/description/
+--Title: Group Sold Products By The Date
 
 SELECT
     sell_date,
